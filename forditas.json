@@ -1,0 +1,272 @@
+{
+  "texts": {
+    "2": "É",
+    "3": "D",
+    "4": "K",
+    "5": "Ny",
+    "13": "bezár",
+    "15": "bezár",
+    "21": "névjegy",
+    "29": "verzió, dátum\nlejátszóverzió",
+    "153": "jún.",
+    "172": "lassabb",
+    "173": "gyorsabb",
+    "174": "sebesség:",
+    "175": "122 nap/mp",
+    "209": "félkövér",
+    "221": "° É",
+    "224": "földrajzi szélesség:",
+    "231": [
+      "Gyengébb grafika animáláskor",
+      "a gyorsabb megjelenítésért"
+    ],
+    "283": "animációmód:",
+    "326": "0:00",
+    "327": "12:00",
+    "328": "6:00",
+    "329": "18:00",
+    "332": "időpont:",
+    "344": "dátum:",
+    "350": "a Nap óraszöge:",
+    "352": "csillagidő:",
+    "354": "időegyenlet:",
+    "355": "részletek",
+    "358": "napmagasság:",
+    "359": "azimut:",
+    "362": "rektaszcenzió:",
+    "363": "deklináció:",
+    "364": "A horizontábra a beállított földrajzi szélesség, dátum és időpont szerinti égboltot mutatja.",
+    "366": [
+      "A Nap húzása",
+      "ezt módosítja:"
+    ],
+    "367": [
+      "deklinációs",
+      "kör"
+    ],
+    "368": [
+      "az éggömb",
+      "alsó fele"
+    ],
+    "369": [
+      "megfigyelő",
+      "és árnyéka"
+    ],
+    "372": [
+      "égi",
+      "egyenlítő"
+    ],
+    "375": [
+      "0h rektaszcenzió",
+      "óraköre"
+    ],
+    "378": [
+      "a Nap napi útja",
+      "(deklinációs kör)"
+    ],
+    "381": [
+      "ekliptika",
+      "(éves napút)"
+    ],
+    "384": "analemma"
+  },
+  "explanations": {
+    "24": "A szimulátor horizontábrán mutatja a Nap égi mozgását, napi és évszakos helyzetváltozásait.\nA bal felső ábrán az égbolt egy, a megfigyelő köré képzelt gömbként jelenik meg. A megfigyelőt az emberalak jelöli. A hely földrajzi szélessége, a dátum és a helyi idő az Idő és hely panelen állítható.\nAz Általános beállítások panelen ki- és bekapcsolhatók az ábra elemei, és megadható, hogy a Nap húzásával az időpont vagy a dátum változzon.\nAz animáció folyamatos időmúlást mutathat, vagy naponként léptethet. A naponkénti mód ugyanazt a napszakot tartja, miközben a dátum változik. Így például megfigyelhető a déli Nap helyzete az év során. Az azonos időpontokhoz tartozó helyzetekből rajzolódik ki az analemma.",
+    "26": "A szimulátor a Nebraska Astronomy Applet Project Napmozgások moduljához tartozik. Kapcsolódó tananyagok és további csillagászati segédletek az alábbi címen találhatók:",
+    "30": "A munkát az NSF #0231270 és/vagy #0404988 számú támogatásai segítették.",
+    "31": "Az eredeti engedély nem kereskedelmi használatot enged meg, amennyiben a fájl változatlan marad."
+  },
+  "runtime": {
+    "January": "január",
+    "February": "február",
+    "March": "március",
+    "April": "április",
+    "May": "máj.",
+    "June": "június",
+    "July": "július",
+    "August": "augusztus",
+    "September": "szeptember",
+    "October": "október",
+    "November": "november",
+    "December": "december",
+    "Jan": "jan.",
+    "Feb": "febr.",
+    "Mar": "márc.",
+    "Apr": "ápr.",
+    "Jun": "jún.",
+    "Jul": "júl.",
+    "Aug": "aug.",
+    "Sep": "szept.",
+    "Oct": "okt.",
+    "Nov": "nov.",
+    "Dec": "dec.",
+    "Motions of the Sun Simulator": "A Nap látszólagos mozgása",
+    "Time and Location Controls": "Idő és hely",
+    "Animation Controls": "Animáció",
+    "General Settings": "Általános beállítások",
+    "Information": "Adatok",
+    "start animation": "indítás",
+    "stop animation": "leállítás",
+    " show month labels": " hónapnevek",
+    " show the ecliptic": " ekliptika",
+    " day of year": " dátum",
+    " time of day": " időpont",
+    " show analemma": " analemma",
+    " loop day": " nap ismétlése",
+    " continuous": " folyamatos",
+    " step by day": " naponként",
+    "° S": "° D",
+    "° N": "° É",
+    "24 September 2010": "2010. szeptember 24.",
+    "\nyour player version: ": "\nlejátszóverzió: ",
+    "Latitude": "Szélesség",
+    "Time of Day": "Időpont",
+    "Day of Year": "Dátum",
+    "Settings": "Beállítások"
+  },
+  "scoped": {
+    "Animation Control Panel.pcode": {
+      "start animation": "indítás",
+      "stop animation": "leállítás"
+    },
+    "AnimationSpeedSlider.pcode": {
+      "day": "nap",
+      "hr": "óra",
+      "min": "perc",
+      "/sec": "/mp",
+      "s/sec": "/mp"
+    },
+    "Day Of Year Panel.pcode": {
+      "January": "január",
+      "February": "február",
+      "March": "március",
+      "April": "április",
+      "May": "május",
+      "June": "június",
+      "July": "július",
+      "August": "augusztus",
+      "September": "szeptember",
+      "October": "október",
+      "November": "november",
+      "December": "december",
+      "Jan": "jan.",
+      "Feb": "febr.",
+      "Mar": "márc.",
+      "Apr": "ápr.",
+      "Jun": "jún.",
+      "Jul": "júl.",
+      "Aug": "aug.",
+      "Sep": "szept.",
+      "Oct": "okt.",
+      "Nov": "nov.",
+      "Dec": "dec."
+    },
+    "Day Of Year Slider.pcode": {
+      "May": "máj.",
+      "Jan": "jan.",
+      "Feb": "febr.",
+      "Mar": "márc.",
+      "Apr": "ápr.",
+      "Jun": "jún.",
+      "Jul": "júl.",
+      "Aug": "aug.",
+      "Sep": "szept.",
+      "Oct": "okt.",
+      "Nov": "nov.",
+      "Dec": "dec."
+    },
+    "Info Panel.pcode": {
+      "The horizon diagram is shown for an observer at latitude ": "Földrajzi szélesség: ",
+      " on ": "; dátum: ",
+      " at ": ".; idő: ",
+      "dayOfMonthString": "monthString",
+      "monthString": "dayOfMonthString"
+    },
+    "Latitude Panel.pcode": {
+      "° S": "° D",
+      "° N": "° É",
+      "Latitude": "Szélesség"
+    },
+    "Mini About Link.pcode": {
+      "About": "Névjegy"
+    },
+    "Simulation Master.pcode": {
+      "May": "máj.",
+      "Jan": "jan.",
+      "Feb": "febr.",
+      "Mar": "márc.",
+      "Apr": "ápr.",
+      "Jun": "jún.",
+      "Jul": "júl.",
+      "Aug": "aug.",
+      "Sep": "szept.",
+      "Oct": "okt.",
+      "Nov": "nov.",
+      "Dec": "dec.",
+      "Animation Controls": "Animáció",
+      "Information": "Adatok",
+      "Latitude": "Szélesség",
+      "Time of Day": "Időpont",
+      "Day of Year": "Dátum",
+      "Settings": "Beállítások",
+      "N": "É",
+      "S": "D",
+      "E": "K",
+      "W": "Ny"
+    },
+    "Title Bar.pcode": {
+      "About": "Névjegy",
+      "Help": "Súgó"
+    },
+    "frame_1/PlaceObject2_390_Title Bar_10/CLIPACTIONRECORD on(initialize).pcode": {
+      "Motions of the Sun Simulator": "A Nap látszólagos mozgása"
+    },
+    "DefineSprite_394_Simulation Master/frame_1/PlaceObject2_392_Panel Background_2/CLIPACTIONRECORD on(initialize).pcode": {
+      "Mar": "márc.",
+      "Time and Location Controls": "Idő és hely"
+    },
+    "DefineSprite_394_Simulation Master/frame_1/PlaceObject2_392_Panel Background_4/CLIPACTIONRECORD on(initialize).pcode": {
+      "Mar": "márc.",
+      "Animation Controls": "Animáció"
+    },
+    "DefineSprite_394_Simulation Master/frame_1/PlaceObject2_392_Panel Background_6/CLIPACTIONRECORD on(initialize).pcode": {
+      "Mar": "márc.",
+      "General Settings": "Általános beállítások",
+      "Settings": "Beállítások"
+    },
+    "DefineSprite_394_Simulation Master/frame_1/PlaceObject2_392_Panel Background_8/CLIPACTIONRECORD on(initialize).pcode": {
+      "Mar": "márc.",
+      "Information": "Adatok"
+    },
+    "DefineSprite_370_Settings Panel/frame_1/PlaceObject2_255_FCheckBoxSymbol_16/CLIPACTIONRECORD on(initialize).pcode": {
+      " show month labels": " hónapnevek"
+    },
+    "DefineSprite_370_Settings Panel/frame_1/PlaceObject2_255_FCheckBoxSymbol_22/CLIPACTIONRECORD on(initialize).pcode": {
+      " show the ecliptic": " ekliptika"
+    },
+    "DefineSprite_370_Settings Panel/frame_1/PlaceObject2_282_FRadioButtonSymbol_10/CLIPACTIONRECORD on(initialize).pcode": {
+      " day of year": " dátum"
+    },
+    "DefineSprite_370_Settings Panel/frame_1/PlaceObject2_282_FRadioButtonSymbol_4/CLIPACTIONRECORD on(initialize).pcode": {
+      " time of day": " időpont"
+    },
+    "DefineSprite_365_Info Panel/frame_1/PlaceObject2_255_FCheckBoxSymbol_10/CLIPACTIONRECORD on(initialize).pcode": {
+      " show analemma": " analemma"
+    },
+    "DefineSprite_32_About/frame_1/DoAction.pcode": {
+      "September": "szeptember",
+      "Sep": "szept.",
+      "24 September 2010": "2010. szeptember 24.",
+      "\nyour player version: ": "\nlejátszóverzió: "
+    },
+    "DefineSprite_284_Animation Control Panel/frame_1/PlaceObject2_255_FCheckBoxSymbol_23/CLIPACTIONRECORD on(initialize).pcode": {
+      " loop day": " nap ismétlése"
+    },
+    "DefineSprite_284_Animation Control Panel/frame_1/PlaceObject2_282_FRadioButtonSymbol_10/CLIPACTIONRECORD on(initialize).pcode": {
+      " continuous": " folyamatos"
+    },
+    "DefineSprite_284_Animation Control Panel/frame_1/PlaceObject2_282_FRadioButtonSymbol_16/CLIPACTIONRECORD on(initialize).pcode": {
+      " step by day": " naponként"
+    }
+  }
+}
